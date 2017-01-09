@@ -10,8 +10,17 @@
   "author": "@devjana",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.6.1",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "mongoose": "^4.5.1"
-  }
+    "mongoose": "^4.7.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calliebensel/MEANie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/calliebensel/MEANie/issues"
+  },
+  "homepage": "https://github.com/calliebensel/MEANie#readme"
 }
